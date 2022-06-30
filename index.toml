@@ -195,6 +195,11 @@ hash = "74d3c1336a54e3a12c37144e3a7283a1103844674529873b9013667d24730449"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "e031fdc8c128699aba2bc0b71adeb148150574a9a7a3cd7a5e6f9650acc879e2"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-forge.pw.toml"
 hash = "8fc85728b1093f7c7ee32cfcc91d185c6d856d374277be6420be562e6b4b99a3"
 metafile = true
