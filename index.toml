@@ -22,7 +22,7 @@ hash = "0330777a8c54f161a34159246370dd8e559487c6e9854526c49480e91426fa55"
 
 [[files]]
 file = "config/playerex-common.toml"
-hash = "c70d700a61b6c5fc981424f9dc2c62284c525df15e77b850a140e4fe0e712602"
+hash = "0cab66dc025bca585101acf2ee260471c6c52761ef25f0e0d3a57df440f7b764"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"

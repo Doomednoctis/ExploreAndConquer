@@ -6,7 +6,7 @@
 	dexterity = 0
 	#Starting Constitution (also starting hp in half hearts) - cannot and should not be set to 0 or less than 0.
 	#Range: 1 ~ 20
-	constitution = 6
+	constitution = 4
 	#Starting Strength - cannot and should not be set to less than 0.
 	#Range: 0 ~ 20
 	strength = 0
