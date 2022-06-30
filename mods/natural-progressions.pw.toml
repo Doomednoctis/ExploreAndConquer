@@ -1,0 +1,13 @@
+name = "Natural Progression"
+filename = "NaturalProgression-1.16.5-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46dac3640a7d9182fe1d924c050275bccb7b0be0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3599475
+project-id = 349530

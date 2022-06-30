@@ -1,0 +1,13 @@
+name = "Custom Skyboxes"
+filename = "customskyboxes-mc1.16.5_v1.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "659dc4d071f6dd30197dc25920faea4901def2fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3514741
+project-id = 544090
