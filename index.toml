@@ -17,6 +17,14 @@ file = "config/paxi/resourcepacks/02_Unity-1.16.X-Dark-0.7.1.zip"
 hash = "4c350012c62f15e108ac90d7ca4e1cc5d200a4b8fc9b8900244f5b83fdbf7ce1"
 
 [[files]]
+file = "config/playerex-client.toml"
+hash = "0330777a8c54f161a34159246370dd8e559487c6e9854526c49480e91426fa55"
+
+[[files]]
+file = "config/playerex-common.toml"
+hash = "c70d700a61b6c5fc981424f9dc2c62284c525df15e77b850a140e4fe0e712602"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "aa8adc794cf6f3d5b641a1fcea9f5a2b7028009f19b226ce14160dd971c48993"
 metafile = true
@@ -38,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "c672f28f4e820ba7b1cb81d8ac7583c5c7f9fcf5118c39884405ed84ad3518b7"
+hash = "9402051f83ba09f407d5c3803a614c47dfb9609ea86667bd9aaa59e76cfbe50a"
 metafile = true
 
 [[files]]
@@ -63,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "69c87abad481950f8046e49bf1ec3b2aec942dcf5898b9c122a6f991e432ca3e"
+hash = "90e117ff7a0a0f2165f7631dcb822df33425a3352ced0c8e5a9a43ab1cbcaf43"
 metafile = true
 
 [[files]]
@@ -73,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-skyboxes.pw.toml"
-hash = "924ac8e07079795dc5a6497c00ba0b3ec4e28a9ea7320795b8b5b3aefbce82df"
+hash = "ce4c2773bf15f6761df0e946f8c35d3728c5b88daa5a7009375ee6039a3235d4"
 metafile = true
 
 [[files]]
@@ -83,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "9af9637224139166b8aff8b34a55a50165d902aa31190037e4265bbec15032ed"
+hash = "abd3a01e770b2d1eecbe9b1efed73d77240ef08d0557d34e56928cbaea345217"
 metafile = true
 
 [[files]]
@@ -128,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "13250d0e75a63cc3e680d17c28f54378035df64ee75c8d5cd524485ac14ad3e0"
+hash = "3695eda68e9b5f761320c8a81c3a3fe9420ebf7013a27ed698ebd58e834d5a05"
 metafile = true
 
 [[files]]
@@ -143,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "702c6a6d9ac11aef1614a0460ae50b394b5908538eaa33d8e8d2b94bc88f9f5f"
+hash = "1def0c39c6f9c4c942831637466af67c542437de875e76d72db158e469329c94"
 metafile = true
 
 [[files]]
@@ -178,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "c0eba592da43516a0ca6d9004603c020b9e80ed18e751366629e5ee01479ff35"
+hash = "79935266a5aba1e58738e7368590540d8529ae6ab8418a75c52fec7f5f850abe"
 metafile = true
 
 [[files]]
@@ -203,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.pw.toml"
-hash = "0b31df34ba36b8face0dcde71fb997fb8886760886b8013268c15ee83906fb7d"
+hash = "d6438caf3dffb72ede50982c9056f167960bef27d64bcd3bf6733f5415ae6cdc"
 metafile = true
 
 [[files]]
